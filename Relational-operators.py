@@ -14,3 +14,7 @@ print ("eitah gunfol:",mul)
 div = num1 / num2
 print ("eitah bagfol:",div)
 
+
+modulo =  num1 % num2
+print ("eitah vagsesh:",modulo)
+
