@@ -11,3 +11,6 @@ print ("eitah biyogfol:",sub)
 mul = num1 * num2
 print ("eitah gunfol:",mul)
 
+div = num1 / num2
+print ("eitah bagfol:",div)
+
