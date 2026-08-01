@@ -8,3 +8,6 @@ print ("eitah jogfol:",sum)
 sub = num1 - num2
 print ("eitah biyogfol:",sub)
 
+mul = num1 * num2
+print ("eitah gunfol:",mul)
+
